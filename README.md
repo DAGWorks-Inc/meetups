@@ -1,2 +1,2 @@
 # meetups
-Resources related to the meetups!
+Resources related to Hamilton meetups!
